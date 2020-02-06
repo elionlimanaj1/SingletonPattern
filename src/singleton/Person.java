@@ -20,4 +20,7 @@ public class Person {
 	public void display() {
 		System.out.println("Name: " + name + " age: " + age);
 	}
+	
+	public void emptyMethod() {}
+
 }

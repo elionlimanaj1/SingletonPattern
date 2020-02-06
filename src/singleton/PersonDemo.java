@@ -28,8 +28,9 @@ public class PersonDemo {
 		p3.display();
 		Person p4 = Person.getInstance();
 		p4.display();
-		Person p5 = Person.getInstance();
-		p5.display();
+
+		
+		System.out.println("I am making changes here");
 
 	}
 }
